@@ -1,18 +1,22 @@
 {
-  "name": "@deepu97/package",
+  "name": "demopackage",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "repository": "https://github.com/Deepu97/package.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "publishConfig": {
+   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deepu97/demopackage.git"
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "@deepu97/package": "^1.0.0"
-  }
+  "bugs": {
+    "url": "https://github.com/Deepu97/demopackage/issues"
+  },
+  "homepage": "https://github.com/Deepu97/demopackage#readme"
 }
