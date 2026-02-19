@@ -1,0 +1,18 @@
+{
+  "name": "@deepu97/package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": "https://github.com/Deepu97/package.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@deepu97/package": "^1.0.0"
+  }
+}
